@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 Customer Sales Insights is a data analytics project that examines customer purchasing behavior, revenue trends, and the effectiveness of discounts. Using SQL for analysis and Power BI for visualization, this project uncovers patterns that help businesses make smarter, data-driven decisions.
-<img width="1166" height="640" alt="image" src="https://github.com/user-attachments/assets/ba83ef42-4759-428b-a9d2-5236a0a18333" />
+<img width="1174" height="661" alt="image" src="https://github.com/user-attachments/assets/23506076-ae42-4db5-b9a7-ab9e48e470c7" />
 
 
 ## 🎯 Objective
